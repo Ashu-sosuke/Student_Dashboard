@@ -32,7 +32,8 @@ A modern Android app built using Jetpack Compose, featuring student information,
 
 ## 📦 APK Download
 
-You can [Download the latest APK here]([https://github.com/Ashu-sosuke/Student_Dashboard/releases/latest](https://github.com/Ashu-sosuke/Student_Dashboard/releases/download/v1.0/Dashboard.apk)).
+You can [Download the latest APK here](https://github.com/Ashu-sosuke/Student_Dashboard/releases/download/v1.0/Dashboard.apk).
+
 
 ```markdown
 [![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Ashu-sosuke/Student_Dashboard/releases/latest)
